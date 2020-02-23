@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Sébastien Daudelin</title>
-    <link>https://sebd.ze.cx/categories/</link>
+    <link>https://dauseb.github.io/portfolio/categories/</link>
     <description>Recent content in Categories on Sébastien Daudelin</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-ca</language>
     
-	<atom:link href="https://sebd.ze.cx/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://dauseb.github.io/portfolio/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
